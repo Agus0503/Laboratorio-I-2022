@@ -1,2 +1,2 @@
-# Laboratorio-I-2022
-Repositorio dedicado a los proyectos desarrollados en lenguaje C 
+# Laboratorio-I-2023
+Repositorio dedicado a los proyectos desarrollados en Python
